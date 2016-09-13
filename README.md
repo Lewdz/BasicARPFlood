@@ -7,4 +7,4 @@ I am not responsible for what you do with this program.
 
 How to use:
 
-python macflood.py
+python PyMac.py
